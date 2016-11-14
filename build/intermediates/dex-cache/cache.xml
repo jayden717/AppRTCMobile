@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jayden/AndroidStudioProjects/androidapp/app/libs/libjingle_peerconnection_java.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e0f89a5f4a00155801f37ac878a22d1cb8007f55">
+        <dex dex="/home/jayden/AndroidStudioProjects/androidapp/app/build/intermediates/pre-dexed/debug/libjingle_peerconnection_java_52253507f3a42295490c3d6427b4d58e9fd3ea1e.jar" />
+    </item>
+    <item
+        jar="/home/jayden/AndroidStudioProjects/androidapp/app/libs/base_java.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="16570f2ce99fdd1bd9c2975cfcb83f5c2fd2fb56">
+        <dex dex="/home/jayden/AndroidStudioProjects/androidapp/app/build/intermediates/pre-dexed/debug/base_java_ee4066d27e8ac9ec2e1ec44bd438e71cf3b851a8.jar" />
+    </item>
+    <item
+        jar="/home/jayden/AndroidStudioProjects/androidapp/app/libs/autobanh_java.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="882739ff319772e8ebfa5e78be83e74d40fea0a8">
+        <dex dex="/home/jayden/AndroidStudioProjects/androidapp/app/build/intermediates/pre-dexed/debug/autobanh_java_7e614bd6e2c224010ec53e770d7f65b1688e12ff.jar" />
+    </item>
+
+</items>

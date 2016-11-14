@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/build/intermediates/res/merged/debug/layout/activity_connect.xml",
+        "source": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/src/main/res/layout/activity_connect.xml"
+    },
+    {
+        "merged": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/build/intermediates/res/merged/debug/layout/activity_call.xml",
+        "source": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/src/main/res/layout/activity_call.xml"
+    },
+    {
+        "merged": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/build/intermediates/res/merged/debug/layout/fragment_hud.xml",
+        "source": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/src/main/res/layout/fragment_hud.xml"
+    },
+    {
+        "merged": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/build/intermediates/res/merged/debug/layout/fragment_call.xml",
+        "source": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/src/main/res/layout/fragment_call.xml"
+    }
+]

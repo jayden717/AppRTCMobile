@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/disconnect.png",
+        "source": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/src/main/res/drawable-xhdpi/disconnect.png"
+    },
+    {
+        "merged": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_loopback_call.png",
+        "source": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/src/main/res/drawable-xhdpi/ic_loopback_call.png"
+    },
+    {
+        "merged": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_return_from_full_screen.png",
+        "source": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/src/main/res/drawable-xhdpi/ic_action_return_from_full_screen.png"
+    },
+    {
+        "merged": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_full_screen.png",
+        "source": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/src/main/res/drawable-xhdpi/ic_action_full_screen.png"
+    },
+    {
+        "merged": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/jayden/AndroidStudioProjects/AppRTCMobile/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]
